@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.pgustavo.dmoviesplus.R
+import com.pgustavo.dmoviesplus.model.BannerItem
 import com.pgustavo.dmoviesplus.model.CategoryItem
 
 class CategoryItemAdapter (private val context: Context, private val categoryItem:List<CategoryItem>)
