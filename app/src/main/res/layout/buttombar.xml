@@ -1,0 +1,63 @@
+<com.google.android.material.appbar.AppBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/wld_toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:background="@android:color/transparent"
+    android:elevation="0dp"
+    app:elevation="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+        <Button
+            android:id="@+id/bt_1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/buttonshape"
+            android:foreground="@drawable/scale" />
+
+        <Button
+            android:id="@+id/bt_2"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/buttonshape"
+            android:foreground="@drawable/scale3" />
+
+        <Button
+            android:id="@+id/bt_3"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/buttonshape"
+            android:foreground="@drawable/scale2" />
+
+        <Button
+            android:id="@+id/bt_4"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/buttonshape"
+            android:foreground="@drawable/scale__1_"  />
+
+        <Button
+            android:id="@+id/bt_5"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/buttonshape"
+            android:foreground="@drawable/scale5" />
+
+
+
+
+    </LinearLayout>
+
+</com.google.android.material.appbar.AppBarLayout>

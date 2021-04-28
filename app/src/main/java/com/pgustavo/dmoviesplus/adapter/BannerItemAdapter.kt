@@ -32,7 +32,7 @@ class BannerItemAdapter(private val context: Context, private val BannerItem: Li
 
     override fun onBindViewHolder(holder: BannerItemViewHolder, position: Int) {
         holder.itemImage.setImageResource(BannerItem[position].imageUrl)
-        // setBannerRecycler(holder.bannerRecycler, BannerItem)
+
 
     }
 
