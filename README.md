@@ -2,7 +2,7 @@
 
 OLA"  bem vindo 
 
-Este é u app clone do disney plus desenvolvido com finalidade de por em pratica conhecimentos adquiridos apos finalizar o   BootCAmp da  Everis na DIO.
+Este é um app clone do disney plus desenvolvido com finalidade de por em pratica conhecimentos adquiridos apos finalizar o   BootCAmp da  Everis na DIO.
 
 Neste app utilizei conceitos como nested recyclerView , botões customizados, bottomBar, toolBar  e outros.   
 
