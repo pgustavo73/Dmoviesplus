@@ -1,11 +1,12 @@
-# Dmovies App com Kotlin 
+# Dmovies App in Kotlin 
 
-OLA"  bem vindo 
+Hello welcome
 
-Este é um app clone do disney plus desenvolvido com finalidade de por em pratica conhecimentos adquiridos apos finalizar o   BootCAmp da  Everis na DIO.
+This is a Disney plus clone app developed with the purpose of putting into practice the knowledge acquired after finishing Everis Bootcamp at DIO.
 
-Neste app utilizei conceitos como nested recyclerView , botões customizados, bottomBar, toolBar  e outros.   
+In this app, I used concepts like nested recyclerView, custom buttons, bottomBar, toolBar, and others.
 
-Fiquem a vontade para olhar estou aberto  a dicas e sugestões.
+Feel free to look, I am open to tips and suggestions.
 
+# Screens
 <img src="./image/telas.jpg" />
